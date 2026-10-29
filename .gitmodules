@@ -1,0 +1,3 @@
+[submodule "references/free-image-generation-api"]
+	path = references/free-image-generation-api
+	url = https://github.com/saurav-z/free-image-generation-api.git
